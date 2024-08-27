@@ -6,4 +6,4 @@ I'm currently learning about:
 - TypeScript and SQL
 - Building and designing with an accessibility-first mindset
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasboyce&hide=javascript,html,css,pug)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasboyce&hide=html,css,pug)](https://github.com/anuraghazra/github-readme-stats)
